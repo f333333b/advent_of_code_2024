@@ -1,7 +1,7 @@
 import re
 from operator import mul
 
-path = 'day3.txt'
+path = 'day03.txt'
 pattern = r'mul\(\d{1,3},\d{1,3}\)'
 
 with open(path) as file:

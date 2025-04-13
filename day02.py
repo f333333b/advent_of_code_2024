@@ -1,4 +1,4 @@
-path = 'day2.txt'
+path = 'day02.txt'
 total_rows_p1 = 0
 total_rows_p2 = 0
 

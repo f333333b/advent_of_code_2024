@@ -1,4 +1,4 @@
-with open('input.txt') as file:
+with open('day14.txt') as file:
     text = file.readlines()
 matrix = [[0] * 101 for _ in range(103)]
 robots = []

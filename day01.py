@@ -1,6 +1,6 @@
 from collections import Counter
 
-path = 'day1.txt'
+path = 'day01.txt'
 
 with open(path) as file:
     data = file.read()
